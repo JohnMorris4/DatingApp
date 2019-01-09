@@ -6,3 +6,5 @@
 
 [x] Added Angular to the Project
 [x] Added React to the Project
+
+[x] Addded Authenication and Authorization / Security.
